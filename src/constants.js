@@ -61,7 +61,7 @@ import aiLogo from './assets/work_logo/ai.png';
 import webverLogo from './assets/work_logo/web_dig.png';
 import matrixLogo from './assets/work_logo/matrix.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
-import removebgLogo from './assets/work_logo/remove_bg.png';
+import travelLogo from './assets/work_logo/travel.png';
 
 // Certificate Section Logo's
 import forageLogo from './assets/certificates/forage.png';
@@ -326,9 +326,9 @@ export const SkillsInfo = [
     title: "WanderGo - Travel Planner",
     description:
       "A frontend travel planning website that allows users to explore destinations and organize trips with a clean and responsive design.",
-    image: removebgLogo,
+    image: travelLogo,
     tags: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/CodeJoc/WanderGo",
-    webapp: "https://github.com/CodeJoc/WanderGo",
+    webapp: "https://wandergo.infinityfreeapp.com/",
   },
   ];  
