@@ -57,7 +57,7 @@ import githubdetLogo from './assets/work_logo/github_det.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
 import shoplyLogo from './assets/work_logo/shoply.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
-import npmLogo from './assets/work_logo/npm.png';
+import aiLogo from './assets/work_logo/ai.png';
 import webverLogo from './assets/work_logo/web_dig.png';
 import matrixLogo from './assets/work_logo/matrix.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
@@ -276,10 +276,10 @@ export const SkillsInfo = [
     title: "AI Meeting Summarizer",
     description:
       "A deep learning/NLP-powered application that transcribes and summarizes meeting conversations into concise notes. Built using Hugging Face Transformers and integrated with a React frontend.",
-    image: npmLogo,
+    image: aiLogo,
     tags: ["Python", "NLP", "Hugging Face", "React JS", "Node.js", "Express"],
     github: "https://github.com/CodeJoc/AI-Meeting_Summarizer",
-    webapp: "https://github.com/CodeJoc/AI-Meeting_Summarizer",
+    webapp: "https://codejoc-ai-meeting-summarizer-app-tvxawi.streamlit.app/",
   },
   {
     id: 4,
