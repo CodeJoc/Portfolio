@@ -53,7 +53,7 @@ import srcsLogo from './assets/education_logo/srcs_logo.png';
 import sgsLogo from './assets/education_logo/sgs_logo.png';
 
 // Project Section Logo's
-import githubdetLogo from './assets/work_logo/github_det.png';
+import edunestLogo from './assets/work_logo/edu.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
 import shoplyLogo from './assets/work_logo/shoply.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
@@ -246,7 +246,7 @@ export const SkillsInfo = [
     title: "EduNest - E-learning Portal",
     description:
       "An ed-tech platform built with the MERN stack. Features course registration, video learning, performance tracking, and an admin panel for managing instructors and content.",
-    image: githubdetLogo,
+    image: edunestLogo,
     tags: ["React JS", "Node.js", "MongoDB", "Express", "Redux", "Bootstrap", "HTML", "CSS", "JavaScript"],
     github: "https://github.com/CodeJoc/EduNest",
     webapp: "https://github.com/CodeJoc/EduNest",
