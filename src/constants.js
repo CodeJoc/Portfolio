@@ -249,7 +249,7 @@ export const SkillsInfo = [
     image: edunestLogo,
     tags: ["React JS", "Node.js", "MongoDB", "Express", "Redux", "Bootstrap", "HTML", "CSS", "JavaScript"],
     github: "https://github.com/CodeJoc/EduNest",
-    webapp: "https://github.com/CodeJoc/EduNest",
+    webapp: "https://edu-nest-hazel.vercel.app/",
   },
   {
     id: 1,
