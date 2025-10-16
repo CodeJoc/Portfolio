@@ -293,13 +293,13 @@ export const SkillsInfo = [
   },
   {
     id: 5,
-    title: "BudgetBuddy - An Expense Tracker",
+    title: "DineEase - Restaurant Management System",
     description:
-      "A student-focused expense tracker that helps manage and analyze daily spending. Features budget visualization, category-wise tracking, and a clean dashboard interface.",
-    image: webverLogo,
-    tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "JSON"],
-    github: "https://github.com/CodeJoc/BudgetBuddy",
-    webapp: "https://github.com/CodeJoc/BudgetBuddy"
+      "A modern MERN stack restaurant platform designed to enhance guest convenience and streamline operations. It allows users to interact with the restaurant digitally, while reservation details are efficiently managed and stored in MongoDB.",
+    image: dineEaseLogo,
+    tags: ["MongoDB", "Express", "React", "Node.js"],
+    github: "https://github.com/CodeJoc/DineEase",
+    webapp: "https://github.com/CodeJoc/DineEase"
   },
   {
     id: 6,
