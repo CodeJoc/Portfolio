@@ -263,6 +263,16 @@ export const SkillsInfo = [
   },
   {
     id: 2,
+    title: "DineEase - Restaurant Management System",
+    description:
+      "A modern MERN stack restaurant platform designed to enhance guest convenience and streamline operations. It allows users to interact with the restaurant digitally, while reservation details are efficiently managed and stored in MongoDB.",
+    image: webverLogo,
+    tags: ["MongoDB", "Express", "React", "Node.js"],
+    github: "https://github.com/CodeJoc/DineEase",
+    webapp: "https://github.com/CodeJoc/DineEase"
+  },
+  {
+    id: 3,
     title: "E-Commerce",
     description:
       "A frontend e-commerce website with product browsing, cart management, and responsive UI. Built with React to deliver a smooth and user-friendly shopping experience.",
@@ -272,7 +282,7 @@ export const SkillsInfo = [
     webapp: "https://shoplystore.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "AI Meeting Summarizer",
     description:
       "A deep learning/NLP-powered application that transcribes and summarizes meeting conversations into concise notes. Built using Hugging Face Transformers and integrated with a React frontend.",
@@ -282,7 +292,7 @@ export const SkillsInfo = [
     webapp: "https://codejoc-ai-meeting-summarizer-app-tvxawi.streamlit.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Dialogue Summarizer",
     description:
       "A text summarization project using a fine-tuned T5 model on the SAMSum dataset to generate concise summaries of dialogues. Designed for chat-style conversations and customer support automation.",
@@ -291,16 +301,7 @@ export const SkillsInfo = [
     github: "https://github.com/CodeJoc/Dialogue_Summarizer",
     webapp: "https://github.com/CodeJoc/Dialogue_Summarizer",
   },
-  {
-    id: 5,
-    title: "DineEase - Restaurant Management System",
-    description:
-      "A modern MERN stack restaurant platform designed to enhance guest convenience and streamline operations. It allows users to interact with the restaurant digitally, while reservation details are efficiently managed and stored in MongoDB.",
-    image: dineEaseLogo,
-    tags: ["MongoDB", "Express", "React", "Node.js"],
-    github: "https://github.com/CodeJoc/DineEase",
-    webapp: "https://github.com/CodeJoc/DineEase"
-  },
+  
   {
     id: 6,
     title: "Matrix Color Changer",
