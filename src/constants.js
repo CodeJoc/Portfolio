@@ -58,7 +58,7 @@ import csprepLogo from './assets/work_logo/cs_prep.png';
 import shoplyLogo from './assets/work_logo/shoply.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import aiLogo from './assets/work_logo/ai.png';
-import webverLogo from './assets/work_logo/web_dig.png';
+import dineEaseLogo from './assets/work_logo/dine.png';
 import matrixLogo from './assets/work_logo/matrix.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import travelLogo from './assets/work_logo/travel.png';
@@ -266,10 +266,10 @@ export const SkillsInfo = [
     title: "DineEase - Restaurant Management System",
     description:
       "A modern MERN stack restaurant platform designed to enhance guest convenience and streamline operations. It allows users to interact with the restaurant digitally, while reservation details are efficiently managed and stored in MongoDB.",
-    image: webverLogo,
+    image: dineEaseLogo,
     tags: ["MongoDB", "Express", "React", "Node.js"],
     github: "https://github.com/CodeJoc/DineEase",
-    webapp: "https://github.com/CodeJoc/DineEase"
+    webapp: "https://dine-ease-restaurant.vercel.app/"
   },
   {
     id: 3,
