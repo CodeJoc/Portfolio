@@ -304,16 +304,6 @@ export const SkillsInfo = [
   },
   {
     id: 6,
-    title: "AI MazeSolver",
-    description:
-      "An AI-based Python project using Tkinter where an agent solves mazes with heuristic search. Implements techniques like random restarts and simulated annealing to overcome dead-ends.",
-    image: imagesearchLogo,
-    tags: ["Python", "AI", "Tkinter", "Heuristic Search"],
-    github: "https://github.com/CodeJoc/MazeSolver",
-    webapp: "https://github.com/CodeJoc/MazeSolver"
-  },
-  {
-    id: 7,
     title: "WanderGo - Travel Planner",
     description:
       "A frontend travel planning website that allows users to explore destinations and organize trips with a clean and responsive design.",
