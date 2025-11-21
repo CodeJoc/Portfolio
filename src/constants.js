@@ -253,16 +253,6 @@ export const SkillsInfo = [
   },
   {
     id: 1,
-    title: "CODE-IDE",
-    description:
-      "A web-based code editor and compiler supporting multiple programming languages. Provides real-time execution, syntax highlighting, and a clean interface for developers to practice and test code.",
-    image: csprepLogo,
-    tags: ["React JS", "Node.js", "MongoDB", "Express", "API", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/CodeJoc/CODE-IDE",
-    webapp: "https://github.com/CodeJoc/CODE-IDE",
-  },
-  {
-    id: 2,
     title: "DineEase - Restaurant Management System",
     description:
       "A modern MERN stack restaurant platform designed to enhance guest convenience and streamline operations. It allows users to interact with the restaurant digitally, while reservation details are efficiently managed and stored in MongoDB.",
@@ -272,7 +262,7 @@ export const SkillsInfo = [
     webapp: "https://dine-ease-restaurant.vercel.app/"
   },
   {
-    id: 3,
+    id: 2,
     title: "E-Commerce",
     description:
       "A frontend e-commerce website with product browsing, cart management, and responsive UI. Built with React to deliver a smooth and user-friendly shopping experience.",
@@ -282,7 +272,7 @@ export const SkillsInfo = [
     webapp: "https://shoplystore.vercel.app/",
   },
   {
-    id: 4,
+    id: 3,
     title: "AI Meeting Summarizer",
     description:
       "A deep learning/NLP-powered application that transcribes and summarizes meeting conversations into concise notes. Built using Hugging Face Transformers and integrated with a React frontend.",
@@ -292,7 +282,7 @@ export const SkillsInfo = [
     webapp: "https://codejoc-ai-meeting-summarizer-app-tvxawi.streamlit.app/",
   },
   {
-    id: 5,
+    id: 4,
     title: "Dialogue Summarizer",
     description:
       "A text summarization project using a fine-tuned T5 model on the SAMSum dataset to generate concise summaries of dialogues. Designed for chat-style conversations and customer support automation.",
@@ -303,7 +293,7 @@ export const SkillsInfo = [
   },
   
   {
-    id: 6,
+    id: 5,
     title: "Matrix Color Changer",
     description:
       "A fun React.js application that allows users to dynamically change the colors of a digital matrix-style animation. Includes smooth transitions and customizable themes.",
@@ -313,7 +303,7 @@ export const SkillsInfo = [
     webapp: "https://matrix-color-changer-woad.vercel.app/",
   },
   {
-    id: 7,
+    id: 6,
     title: "AI MazeSolver",
     description:
       "An AI-based Python project using Tkinter where an agent solves mazes with heuristic search. Implements techniques like random restarts and simulated annealing to overcome dead-ends.",
@@ -323,7 +313,7 @@ export const SkillsInfo = [
     webapp: "https://github.com/CodeJoc/MazeSolver"
   },
   {
-    id: 8,
+    id: 7,
     title: "WanderGo - Travel Planner",
     description:
       "A frontend travel planning website that allows users to explore destinations and organize trips with a clean and responsive design.",
